@@ -3,8 +3,6 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pragatimishra21&label=Profile%20views&color=0e75b6&style=flat" alt="pragatimishra21" /> </p>
 
-- 🌱 I’m currently learning **Next.js and Backend**
-
 - 📫 How to reach me **https://www.linkedin.com/in/pragati-mishra-023a7020a/**
 
 <h3 align="left">Connect with me:</h3>
